@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txtvskill"
+            android:layout_width="wrap_content"
+            android:layout_height="76dp"
+            android:background="@layout/skillbg"
+            android:paddingLeft="20dip"
+            android:paddingTop="40dip"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="30dip" />
+               <ListView
+            android:id="@+id/android:list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+        </ListView>
+
+        <ExpandableListView
+            android:id="@+id/moreinfo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:groupIndicator="@layout/iconexpandable"
+            android:scrollbarAlwaysDrawVerticalTrack="true"
+            android:scrollbarStyle="insideOverlay" >
+
+        </ExpandableListView>
+</LinearLayout>
+
+  

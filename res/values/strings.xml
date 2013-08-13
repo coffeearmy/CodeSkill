@@ -1,0 +1,114 @@
+<resources>
+
+    <string name="app_name">CodeSkill</string>
+    <string name="title_activity_main">CodeSkill</string>
+    <string name="buscar">Search</string>
+    <string name="title_activity_show_code">CodeSkill</string>
+    <string name="LinkedINheader">LinkedIN </string>
+    <string name="skillName">Results for:</string>
+    <string name="StackOverflow">StackOverflow </string>
+    <string name="Github">Github</string>
+    <string name="Twitter">Twitter</string>
+    <string name="skillnotfound">No skill found.</string>
+    <string name="Networkerror">Conection Error.</string>
+    <string name="githubJob">github:jobs</string>
+    <string name="descLinkedin">Average use of skill</string>
+    <string name="descGithub">Github</string>
+    <string name="descTwitter">Search #job and #skill last tweets</string>
+    <string-array name="code">
+        <item>ActionScript</item>
+		<item>Ada</item>
+		<item>Apex</item>
+		<item>AppleScript</item>
+		<item>Arc</item>
+		<item>Arduino</item>
+		<item>ASP</item>
+		<item>Assembly</item>
+		<item>Augeas</item>
+		<item>AutoHotkey</item>
+		<item>Boo</item>
+		<item>Bro</item>
+		<item>C</item>
+		<item>C#</item>
+		<item>C++</item>
+		<item>Ceylon</item>
+		<item>Clojure</item>
+		<item>CoffeeScript</item>
+		<item>ColdFusion</item>
+		<item>Common Lisp</item>
+		<item>Coq</item>
+		<item>D</item>
+		<item>Dart</item>
+		<item>DCPU-16 ASM</item>
+		<item>Delphi</item>
+		<item>Dylan</item>
+		<item>eC</item>
+		<item>Ecl</item>
+		<item>Eiffel</item>
+		<item>Elixir</item>
+		<item>Emacs Lisp</item>
+		<item>Erlang</item>
+		<item>F#</item>
+		<item>Factor</item>
+		<item>Fancy</item>
+		<item>Fantom</item>
+		<item>FORTRAN</item>
+		<item>Go</item>
+		<item>Gosu</item>
+		<item>Groovy</item>
+		<item>Haskell</item>
+		<item>HaXe</item>
+		<item>Io</item>
+		<item>Ioke</item>
+		<item>Java</item>
+		<item>JavaScript</item>
+		<item>Julia</item>
+		<item>Kotlin</item>
+		<item>Logtalk</item>
+		<item>Lua</item>
+		<item>Matlab</item>
+		<item>Max</item>
+		<item>Mirah</item>
+		<item>Nemerle</item>
+		<item>Nimrod</item>
+		<item>Nu</item>
+		<item>Objective-C</item>
+		<item>Objective-J</item>
+		<item>OCaml</item>
+		<item>ooc</item>
+		<item>Opa</item>
+		<item>OpenEdge ABL</item>
+		<item>Parrot</item>
+		<item>Perl</item>
+		<item>PHP</item>
+		<item>PowerShell</item>
+		<item>Prolog</item>
+		<item>Puppet</item>
+		<item>Pure Data</item>
+		<item>Python</item>
+		<item>R</item>
+		<item>Racket</item>
+		<item>Rebol</item>
+		<item>Ruby</item>
+		<item>Rust</item>
+		<item>Scala</item>
+		<item>Scheme</item>
+		<item>Scilab</item>
+		<item>Self</item>
+		<item>Shell</item>
+		<item>Smalltalk</item>
+		<item>Standard ML</item>
+		<item>SuperCollider</item>
+		<item>Tcl</item>
+		<item>Turing</item>
+		<item>Vala</item>
+		<item>Verilog</item>
+		<item>VHDL</item>
+		<item>VimL</item>
+		<item>Visual Basic</item>
+		<item>XQuery</item>        
+    </string-array>
+    <string name="menu_About">About&#8230;</string>
+    <string name="about_us">First of all, thanks for try this app!  This is our first application and always will be free, please enjoy it and feel free to email us with sugestions  or simply say hello!. </string>
+
+</resources>
